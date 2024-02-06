@@ -1,4 +1,4 @@
-is ga My-English-Driver aims to enhance English language learning in an interactive and funny learning way. The main objective of the app is to provide an engaging platform for students to improve their English language skills.
+My-English-Driver game aims to enhance English language learning in an interactive and funny learning way. The main objective of the app is to provide an engaging platform for students to improve their English language skills.
 Our target are bginer english student and trainer people.
 we are team of 5 students.
 the educational game is build in flutter.
